@@ -5,11 +5,11 @@ Tags:              Google Analytics, Tracking, GA, simple
 Author:            Vlad Duma
 Requires PHP:      5.2.4
 Requires at least: 3.8
-Tested up to:      5.2
+Tested up to:      5.0.2
 Stable tag:        /trunk
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
-Version:           1.0
+Version:           1.0.1
 
 == Description ==
 Very Simple Google Analytics Tracking is the easiest to use plugin to attach GA tracking code to all pages of your website.
